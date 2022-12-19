@@ -22,7 +22,7 @@
 - Evaluate the time complexity and space complexity of diffrent algorithms using Big O Notaion (빅오 표기법을 사용해서 여러 가지 알고리즘을 평가)
 - Describe what a logarithm is (그런 후, 로그가 무엇인지)
 
-### 😵
+### 😵... 😠💪🏻!
 
 <br />
 
